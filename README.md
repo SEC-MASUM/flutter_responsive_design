@@ -1,16 +1,10 @@
 # flutter_responsive_design_assignment
 
 Responsive Design Flutter Project
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Mobile View
+<img src="https://github.com/user-attachments/assets/8687151b-5f0e-422d-95dd-eba9da97a506" width="20%"></img>
+<img src="https://github.com/user-attachments/assets/551907f2-71a8-4677-a401-007e47e37284" width="20%"></img>
+### Tablet View
+<img src="https://github.com/user-attachments/assets/2001d3cd-413b-468f-b388-a6f09756ae2e" width="50%"></img>
+### Desktop View
+<img src="https://github.com/user-attachments/assets/1ed1a6b0-39a3-464a-b2f9-45e8dcc8c97f" width="100%"></img> 
